@@ -1,4 +1,4 @@
-### Ola! eu sou Rodrigo Oliveira 👋
+### Ola! eu sou Rodrigo Oliveira 😄
 
 - 🌱 Atualmente estou aprendendo Java com Spring-Boot.
 - 📫 Como chegar até mim: Email: Rodrigoyukimide00@gmail.com / linkedin:https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ / numero: 11 958750103.
