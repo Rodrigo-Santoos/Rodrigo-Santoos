@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Java com Spring-Boot.
 - 📫 Como chegar até mim: Email: Rodrigoyukimide00@gmail.com / linkedin:https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ / numero: 11 958750103.
-- ⚡ Curiosidade: Tenho um sonho de Criar um jogo grande algum dia.
+- ⚡ Curiosidade: Tenho um sonho de Criar um jogo grande algum dia.🎮
 
   <!--<div>
   <a href="https://github.com/Rodrigo-Santoos">
