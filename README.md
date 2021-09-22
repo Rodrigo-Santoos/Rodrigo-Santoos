@@ -1,4 +1,4 @@
-### Ola! eu sou Rodrigo Oliveira 😄
+### Ola! Bem Vindo ao meu Portfólio, me chamo Rodrigo Oliveira e fique avontade para ver os meus projetos 🙃
 
 - 🌱 Atualmente estou aprendendo Java com Spring-Boot e API.
 - 📫 Como chegar até mim: Email: Rodrigoyukimide00@gmail.com / linkedin:https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ / numero: 11 958750103.
