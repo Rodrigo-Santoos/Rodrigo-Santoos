@@ -1,6 +1,6 @@
 ### Ola! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos🙂
 
-- 🌱 Atualmente estou aprendendo Microsserviços Java com Spring Boot e Spring Cloud.
+- 🌱 Atualmente estou: Descansando.
 - 📫 Como chegar até mim: Email: rodrigoyukimide00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade: Tenho um sonho de criar um jogo grande algum dia.🎮
 
