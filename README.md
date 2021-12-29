@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou: Estudando SpringBoot com WEB.
 - 📫 Como chegar até mim: Email: rodrigoyukimide00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
-- ⚡ Curiosidade sobre mim: Tenho um sonho de criar um jogo grande algum dia e adoro coisas relacionadas a espaço 🔭
+- ⚡ Curiosidade sobre mim: Tenho um sonho de criar um jogo grande algum dia e adoro Astronomia 🔭
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
