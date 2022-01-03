@@ -1,4 +1,4 @@
-### Ola! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos 🙂
+### Ola! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
 - 🌱 Atualmente estou: Estudando SpringBoot com WEB.
 - 📫 Como chegar até mim: Email: rodrigoyukimide00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
