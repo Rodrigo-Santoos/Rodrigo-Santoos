@@ -1,6 +1,6 @@
 ### Ola! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
-- 📖 Aprendendo no momento: Fazendo alguns projetos pequenos.
+- 📖 Aprendendo no momento: Reforçado Programaçao Orientada ao Objeto.
 - 🌱 Proximo aprendizado: Ainda estou vendo...
 - 📱 Como chegar até mim: Email: rodrigoyukimide00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: Tenho um sonho de criar jogos grande algum dia e adoro Astronomia 🔭
