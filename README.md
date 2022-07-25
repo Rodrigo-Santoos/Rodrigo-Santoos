@@ -2,7 +2,7 @@
 
 - 📖 Aprendendo no momento: AWS.
 - 🌱 Proximo aprendizado: estou vendo...
-- 📱 Como chegar até mim: Email: rodrigoyukimide00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
+- 📱 Como chegar até mim: Email: rodrigo.de.oliveira.santos00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: Tenho um sonho de criar jogos grande algum dia e adoro Astronomia 🔭
 
 <div style="display: inline_block" align="center"><br>
