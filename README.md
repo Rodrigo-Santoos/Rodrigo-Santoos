@@ -1,6 +1,6 @@
 ### Ola! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
-- 📖 Aprendendo no momento: AWS.
+- 📖 Aprendendo no momento: AWS e Unity.
 - 🌱 Proximo aprendizado: estou vendo...
 - 📱 Como chegar até mim: Email: rodrigo.de.oliveira.santos00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: Tenho um sonho de criar jogos grande algum dia e adoro Astronomia 🔭
