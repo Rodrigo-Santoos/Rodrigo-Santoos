@@ -1,4 +1,4 @@
-### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
+### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos 🙃
 
 - 📖 Aprendendo no momento: AWS e Unity.
 - 🌱 Próximo aprendizado: estou vendo...
