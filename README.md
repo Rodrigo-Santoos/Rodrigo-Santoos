@@ -1,6 +1,6 @@
 ### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
-- 📖 Aprendendo no momento: <strong>Padrões de Projeto em JAVA na Prática!</strong>
+- 📖 Aprendendo no momento: <strong>Microserviços em Java</strong>
 - 🌱 Próximo aprendizado: <strong>Sem ideia ainda...</strong>
 - 📱 Como chegar até mim: Email: rodrigo.de.oliveira.santos00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: <strong> Tenho um sonho de criar jogos algum dia e adoro Astronomia </strong> 🔭
