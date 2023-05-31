@@ -1,4 +1,4 @@
-### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos 🙃
+### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
 - 📖 Aprendendo no momento: <strong>Padrões de Projeto em JAVA na Prática!</strong>
 - 🌱 Próximo aprendizado: <strong>Sem ideia ainda...</strong>
