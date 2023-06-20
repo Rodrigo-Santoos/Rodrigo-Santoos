@@ -5,7 +5,10 @@
 - 📱 Como chegar até mim: Email: rodrigo.de.oliveira.santos00@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: <strong> Tenho um sonho de criar jogos algum dia e adoro Astronomia </strong> 🔭
 
-<div style="display: inline_block" align="center"><br>
+<div  align="center">
+  <p>Meus Conhecimentos:</p>
+</div>
+<div style="display: inline_block" align="center">
   <img align="center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <!--  <img align="center" alt="C#" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png">  !-->
   <img align="center" alt="Unity" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png">
