@@ -4,7 +4,7 @@
 
 - 📖 Aprendendo no momento: <strong>Angular para usar no Trabalho</strong>
 - 🌱 Próximo aprendizado: <strong>Vou ver ainda</strong>
-- 📱 Como chegar até mim: Email: rodrigooliveirasantoos0@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
+- 📱 Como chegar até mim: Email: rodrigoyukimide@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: <strong> Tenho um sonho de criar jogos algum dia e adoro Astronomia </strong> 🔭
   
 <div style="display: inline_block" align="center">
