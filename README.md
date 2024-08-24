@@ -2,8 +2,8 @@
 
 ### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
-- 📖 Aprendendo no momento: <strong>Angular</strong>
-- 🌱 Próximo aprendizado: <strong>Vou ver ainda</strong>
+- 📖 Aprendendo no momento: <strong>Junit e Mockito</strong>
+- 🌱 Próximo aprendizado: <strong>??</strong>
 - 📱 Como chegar até mim: Email: rodrigoyukimide@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
 - ⚡ Curiosidade sobre mim: <strong> Tenho um sonho de criar jogos algum dia e adoro Astronomia </strong> 🔭
   
