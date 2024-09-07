@@ -4,7 +4,8 @@
 
 - 📖 Aprendendo no momento: <strong>Junit e Mockito</strong>
 - 🌱 Próximo aprendizado: <strong>??</strong>
-- 📱 Como chegar até mim: Email: rodrigoyukimide@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/ 
+- 📱 Como chegar até mim: Email: rodrigoyukimide@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/
+- 🐳 Meu Perfil do Docker Hub:  https://hub.docker.com/u/rockmandr
 - ⚡ Curiosidade sobre mim: <strong> Tenho um sonho de criar jogos algum dia e adoro Astronomia </strong> 🔭
   
 <div style="display: inline_block" align="center">
