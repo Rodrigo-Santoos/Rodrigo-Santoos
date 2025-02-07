@@ -2,7 +2,7 @@
 
 ### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
-- 📖 Aprendendo no momento: <strong>Micro Services em Java</strong>
+- 📖 Aprendendo no momento: <strong>Micro Services em Java + Angular</strong>
 - 🌱 Próximo aprendizado: <strong>??</strong>
 - 📱 Como chegar até mim: Email: rodrigoyukimide@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/
 - 🐳 Meu perfil do Docker Hub:  https://hub.docker.com/u/rockmandr
