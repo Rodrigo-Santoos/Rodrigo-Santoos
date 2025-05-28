@@ -2,7 +2,7 @@
 
 ### Olá! Bem Vindo ao meu Portfólio, fique avontade para ver os meus projetos
 
-- 📖 Aprendendo no momento: <strong>Micro Services em Java + Angular</strong>
+- 📖 Aprendendo no momento: <strong>Junit e mockito </strong>
 - 🌱 Próximo aprendizado: <strong>??</strong>
 - 📱 Como chegar até mim: Email: rodrigoyukimide@gmail.com | linkedin: https://www.linkedin.com/in/rodrigo-oliveira-27a18415a/
 - 🐳 Meu perfil do Docker Hub:  https://hub.docker.com/u/rockmandr
@@ -17,6 +17,7 @@
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-512.png">
   <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">
   <img align="center" alt="Maven" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
