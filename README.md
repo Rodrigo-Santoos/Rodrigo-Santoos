@@ -18,5 +18,6 @@
   <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png">
   <img align="center" alt="Maven" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="n8n" height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png">
   
 </div>
