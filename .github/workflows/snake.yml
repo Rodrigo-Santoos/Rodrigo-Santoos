@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rodrigo-Santoos
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Generate snake dark SVG
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rodrigo-Santoos
           outputs: dist/github-contribution-grid-snake-dark.svg
