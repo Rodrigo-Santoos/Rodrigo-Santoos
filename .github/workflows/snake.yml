@@ -24,6 +24,13 @@ jobs:
           github_user_name: Rodrigo-Santoos
           outputs: dist/github-contribution-grid-snake-dark.svg
 
+      - name: Generate snake black background
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Rodrigo-Santoos
+          outputs: dist/github-contribution-grid-snake-black.svg
+          palette: black
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
