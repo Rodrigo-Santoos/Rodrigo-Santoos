@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia
+    - cron: "0 0 * * *" # roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,11 @@ jobs:
         with:
           github_user_name: Rodrigo-Santoos
           outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Generate dark version
+        uses: Platane/snk@master
+        with:
+          github_user_name: Rodrigo-Santoos
           outputs: dist/github-contribution-grid-snake-dark.svg
 
       - name: Push to output branch
